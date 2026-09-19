@@ -1,0 +1,5 @@
+Due to GitHub's file size limit, dataset could not be uploaded here. Download csv files from links below and put them in this folder (./Data/) before attempting to run the Jupyter notebook.
+
+Dataset 1: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
+
+Dataset 2: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_credits.csv
